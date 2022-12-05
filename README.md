@@ -14,9 +14,7 @@ Sou uma grande entusiasta do cinema e da tecnologia. Sou de Recife-Pe e atuo na 
     <li>⚡ Fato interessante: tenho uma página que fala sobre c</li>
     <li>😄 Pronouns: Ela/Dela - She/Her </li>
   </div>
-     <img align="center" src="https://raw.githubusercontent.com/SrTonn/SrTonn/main/metrics.plugin.isocalendar.fullyear.svg#gh-light-mode-only" alt="snake eating commits">
-     <img src="https://github.com/srtonn/srtonn/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake eating commits">
-</div>
+     
 
 <hr>
 <h4 align="center">🔥 Línguagens & Frameworks & Ferramentas & Habilidades 🔥</h4>
